@@ -1,11 +1,13 @@
 ### Olá Mundo! Prazer sou Daniel 👋
 
 :rocket:Graduando Analise Desenvolvimento de Sistemas📖 <br>
-🟢Sou Apaixonado por programação, Atualmente estou aprendedo e desenvolvendo projetos com: <br>
+👨🏾‍💻Entusiasta de Frontend em constante evolução, apaixonado por criar experiências web cativantes e acessíveis. Atualmente imerso no mundo do desenvolvimento web, explorando as nuances do HTML, CSS e JavaScript para dar vida às minhas ideias criativas. Em busca de dominar frameworks modernos como React e Vue.js para construir interfaces interativas e responsivas. <br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-html"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DANIELALVES898&show_icons=true&theme=highcontrast) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELALVES898&theme=highcontrast">
+
+### As linguagens que utilizo diariamente:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-html"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)">
 <br>
-
 
 <!--
 **DANIELALVES898/Danielalves898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
